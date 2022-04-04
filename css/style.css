@@ -1,0 +1,39 @@
+#circle {
+  background: black;
+  border-radius: 50%;
+  width: 215px;
+  height: 215px;
+}
+#triangle {
+  width: 0;
+  height: 0;
+  border-top: 90px solid transparent;
+  border-right: 180px solid greenyellow;
+  border-bottom: 90px solid transparent;
+}
+#t1 {
+  width: 0;
+  height: 0;
+  border-left: 90px solid transparent;
+  border-right: 90px solid transparent;
+  border-bottom: 180px solid blue;
+}
+#t2{
+    width: 0;
+    height: 0;
+    border-top: 90px solid transparent;
+    border-left: 180px solid orangered;
+    border-bottom: 90px solid transparent;
+}
+#t3{
+  width: 0;
+  height: 0;
+  border-left: 90px solid transparent;
+  border-right: 90px solid transparent;
+  border-top: 180px solid rgb(255, 0, 98);
+}
+
+
+
+
+  
